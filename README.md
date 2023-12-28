@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Git Repository:**
    ```bash
-   git clone https://github.com/your-username/topic-tales.git
+   git clone https://github.com/MohdJunaid007/TopicTales-Backend.git
    cd topic-tales
 2. npm install
 3. npm start
